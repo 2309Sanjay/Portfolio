@@ -1707,7 +1707,9 @@ textarea {
         display: flex;
         justify-content: center;
     }
-
+    .home-img>div:last-child{
+        font-size: 2.5rem;
+    }
     .intro p {
         width: 100%;
         font-size: 1rem;
